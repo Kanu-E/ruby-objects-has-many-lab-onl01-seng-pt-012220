@@ -14,7 +14,7 @@ class Post
   end
   
   def author_name
-    
+    self.artist.name
   end
   
 end
