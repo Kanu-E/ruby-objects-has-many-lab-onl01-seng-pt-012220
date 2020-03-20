@@ -10,7 +10,7 @@ class Author
   end
   
   def add_post(pos)
-   pos.artist = self
+    self = pos.artist
   end
  
   
