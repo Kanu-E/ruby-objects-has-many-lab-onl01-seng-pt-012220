@@ -13,8 +13,8 @@ class Author
    pos.author = self
   end
  
-  def
-  
+  def add_post_by_title(post_title)
+    
   end 
   
 end
