@@ -17,4 +17,12 @@ class Post
     self.author.name
   end
   
+  def auther_name
+   if self.artist == nil
+     nil
+   else
+    self.artist.name
+  end
+  end
+  
 end
