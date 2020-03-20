@@ -13,5 +13,8 @@ class Author
    pos.author = self
   end
  
+  def
+  
+end 
   
 end
